@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="483c8b4c-d2c1-4113-8956-d65cd0abe19f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/TransferApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/dao/ArticleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/dao/CreatorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/domain/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/domain/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/reader/ArticleReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/reader/ArticleXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/service/ArticleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/transfer/Transfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/utils/HibernateSessionFactoryUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mai/arachnitransfer/writer/ArticleWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Q8iWawQF4lPEO9AGHdZbNnp4Mr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Neo/IdeaProjects/arachni-transfer/target/arachni-transfer-1.0-SNAPSHOT.jar",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Neo\IdeaProjects\arachni-transfer\src\main\java\ru\mai\arachnitransfer" />
+      <recent name="C:\Users\Neo\IdeaProjects\arachni-transfer\src\main\java\ru\mai\arachnitransfer\domain" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.mai.arachnitransfer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TransferApplication">
+    <configuration name="TransferApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mai.arachnitransfer.TransferApplication" />
+      <module name="arachni-transfer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mai.arachnitransfer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/arachni-transfer-1.0-SNAPSHOT.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Neo\IdeaProjects\arachni-transfer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.TransferApplication" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransferApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="483c8b4c-d2c1-4113-8956-d65cd0abe19f" name="Changes" comment="" />
+      <created>1684741643330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684741643330</updated>
+    </task>
+    <servers />
+  </component>
+</project>

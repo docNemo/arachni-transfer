@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+    <session-factory>
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.url">192.168.3.187</property>
+        <property name="hibernate.connection.username">app_tuz</property>
+        <property name="hibernate.connection.password">Potom123456789@Potom123456789</property>
+    </session-factory>
+
+</hibernate-configuration>
